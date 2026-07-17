@@ -1,0 +1,30 @@
+alassasi-menu/
+│
+├── index.html
+├── menu.html
+├── contact.html
+├── gallery.html
+├── about.html
+│
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+│   └── animations.css
+│
+├── js/
+│   ├── main.js
+│   └── menu.js
+│
+├── images/
+│   ├── logo.png
+│   ├── hero.jpg
+│   ├── pizza/
+│   ├── pastries/
+│   └── meat/
+│
+├── assets/
+│   ├── icons/
+│   └── fonts/
+│
+├── README.md
+└── LICENSE
